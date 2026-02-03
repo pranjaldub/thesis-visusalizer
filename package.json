@@ -1,6 +1,5 @@
 {
   "name": "rag-pipeline-frontend",
-  "homepage": "https://pranjaldub.github.io/thesis-visualizer/",
   "version": "1.0.0",
   "description": "RAG Pipeline - Modern React Dashboard",
   "private": true,
@@ -24,7 +23,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    
   }
 }
