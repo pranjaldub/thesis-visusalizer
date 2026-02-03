@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // ⚠️ UPDATE THIS WITH YOUR NGROK URL FROM KAGGLE!
-const API_BASE_URL = "https://ea62ed40e8cb.ngrok-free.app/";
+const API_BASE_URL = "https://8c27efb50f40.ngrok-free.app//";
 // Example: const API_BASE_URL = 'https://abc123.ngrok.io';
 
 const api = axios.create({
